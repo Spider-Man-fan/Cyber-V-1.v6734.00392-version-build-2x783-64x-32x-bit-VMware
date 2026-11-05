@@ -1,0 +1,5 @@
+cpuid.disable_apicExtRegs = "TRUE"
+monitor_control.enable_fullcpuid = "TRUE"
+cpuid.1.eax = "0---:----:----:----:----:----:----:----"
+monitor_control.disable_directexec = "true"
+monitor_control.disable_chksimd = "true"
